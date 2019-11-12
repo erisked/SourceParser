@@ -1,0 +1,10 @@
+C:\Users\rikediya\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp1.0\ConsoleApp5.deps.json
+C:\Users\rikediya\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp1.0\ConsoleApp5.runtimeconfig.json
+C:\Users\rikediya\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp1.0\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\rikediya\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp1.0\ConsoleApp5.dll
+C:\Users\rikediya\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp1.0\ConsoleApp5.pdb
+C:\Users\rikediya\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp1.0\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\rikediya\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp1.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\rikediya\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp1.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\rikediya\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp1.0\ConsoleApp5.dll
+C:\Users\rikediya\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp1.0\ConsoleApp5.pdb
